@@ -10,9 +10,15 @@ button
 
 
 }
-#btnAdd
+#btnDel
 {
 
+
+
+}
+#btnAdd
+{
+border: solid;
 
 
 }
